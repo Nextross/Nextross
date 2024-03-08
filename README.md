@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning C/C++
+- 🏫 Studying at FIT CTU
+
 <!--
 **Nextross/Nextross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
